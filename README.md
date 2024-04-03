@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kelvin S. da Rosa</h1>
-<h3 align="center">A passionate Game Developer from Brazil, future Biologist that want to use technology to help the eco-system.</h3>
+<h3 align="center">A passionate Game Developer from Brazil, that want to use technology to help the eco-system.</h3>
 
 - 🔭 I’m currently working on **Seeds of Nature Game**
 
