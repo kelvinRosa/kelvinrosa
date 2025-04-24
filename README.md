@@ -82,6 +82,6 @@
 
 ###
 
-<img src="[https://raw.githubusercontent.com/kelvinRosa/kelvinRosa/output/snake.svg](https://profile-readme-generator.com/assets/pacman.svg)" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/pacman.svg" alt="Snake animation" />
 
 ###
