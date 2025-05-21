@@ -1,11 +1,8 @@
 <h2 align="left">Hi 👋! My name is Kelvin Rosa and I'm a Game Developer, from Brazil 🇧🇷.</h2>
 
 ###
-
-<div align="center">
- ![kelvinRosa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kelvinRosa&theme=vue-dark&hide_border=true)
-  ![kelvinRosa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinRosa&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-</div>
+ ![kelvinRosa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kelvinRosa&theme=dracula&hide_border=true)
+![kelvinRosa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinRosa&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 ###
 
